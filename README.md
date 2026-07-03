@@ -158,8 +158,7 @@ Interested in:
 
 
 ## Video Demo
-
-`https://github.com/user-attachments/assets/d9884c9a-e016-43d2-8c34-6c5c6d6078bb`
+https://github.com/user-attachments/assets/d9884c9a-e016-43d2-8c34-6c5c6d6078bb
 
 
 
