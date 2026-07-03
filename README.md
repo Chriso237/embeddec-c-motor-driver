@@ -1,5 +1,4 @@
 
-
 # Motor Driver Firmware Simulation in C
 
 
@@ -157,6 +156,10 @@ Interested in:
 - Motor Control
 - Robotics Motion Planning
 
+
+## Video Demo
+
+`https://github.com/user-attachments/assets/d9884c9a-e016-43d2-8c34-6c5c6d6078bb`
 
 
 
