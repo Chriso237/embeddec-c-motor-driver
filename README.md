@@ -85,6 +85,7 @@ typedef struct{
 
 ````markdown
 ## Build and Run
+````
 
 Compile using GCC:
 
@@ -94,12 +95,13 @@ gcc main.c gpio.c motor.c -o motor
 
 ---
 ```
-````
+
 
 # Example output
 
 ````markdownn
 ## Example Output
+````
 
 ```text
 Motor Status
@@ -111,7 +113,6 @@ Speed      : 25
 Register   : 0xCF
 ```
 
-````
 
 ## Concepts Practiced
 
