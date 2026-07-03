@@ -1,6 +1,5 @@
 # Motor Driver Firmware Simulation in C
-![Licence](https://img.shield.io/badge/Licence-MIT-green)
-![Language](https://img.shield.io/badge/C-blue)
+
 
 A modular Embedded C project simulating a basic DC motor driver firmware.
 
